@@ -28,3 +28,35 @@
 ---
 
 ## ▣ STACK (LEAN)
+
+
+---
+
+## ▣ SIGNAL
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nishant4sep&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## ▣ CURRENT FOCUS
+
+- AI agents + workflow chaining  
+- Distribution systems (content → leads → conversion)  
+- Scaling NYX Digital  
+
+---
+
+## ▣ ACCESS
+
+<p align="center">
+  <a href="https://nishantpadha.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nishant4sep&color=00ff99&style=flat" />
+</p>
