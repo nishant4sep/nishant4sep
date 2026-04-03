@@ -1,51 +1,30 @@
 <h1 align="center">Nishant Padha</h1>
+
 <p align="center">
-  <b>Building systems, brands, and automation</b><br/>
-  AI • Web • Growth • NYX Digital
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&size=28&center=true&vCenter=true&width=700&lines=Systems+%3E+Websites;Automation+Builder;AI+Workflows;NYX+Digital" />
+</p>
+
+<p align="center">
+  <i>Building leverage through code, automation, and distribution</i>
 </p>
 
 ---
 
-## ⚡ About Me
-- Founder @ NYX Digital  
-- Focused on **automation, AI workflows, and digital systems**  
-- Building tools, not just websites  
-- Currently exploring: **n8n, AI agents, scalable funnels**
+## ▣ OPERATOR PROFILE
+
+- Founder → **NYX Digital**
+- Focus → **Automation, AI workflows, scalable systems**
+- Philosophy → *Build once. Scale infinitely.*
+- Current stack → n8n · APIs · growth infra
 
 ---
 
-## 🧠 Tech Stack
+## ▣ ACTIVE SYSTEMS
 
-
----
-
-## 🚀 Projects
-- 🔍 **shadow-recon** → Automated recon toolkit  
-- 🌐 **Portfolio** → https://nishant4sep.github.io  
-- ⚙️ More coming...
+- ⚙️ **Automation Pipelines** → content + lead gen engines  
+- 🔍 **shadow-recon** → recon tooling  
+- 🌐 **Portfolio** → https://nishant.is-a.dev  
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishant4sep&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-## 🧩 Currently Working On
-- AI-powered automation systems  
-- Content + distribution workflows  
-- Scaling NYX Digital  
-
----
-
-## 📫 Connect
-- 🌐 Website: https://nishant4sep.github.io  
-- 💼 LinkedIn: (add your link)
-
----
-
-<p align="center">
-  <i>“Build once. Automate forever.”</i>
-</p>
+## ▣ STACK (LEAN)
