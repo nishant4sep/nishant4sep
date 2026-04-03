@@ -102,5 +102,6 @@
 
 
 <div align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=nishantpadha&style=flat-square&color=CBC3E3)
+  <img src="https://komarev.com/ghpvc/?username=nishantpadha&style=flat-square&color=CBC3E3" alt="Profile Views"/>
 </div>
+
