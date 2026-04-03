@@ -100,17 +100,7 @@
 
 
 
-### 🌐 Connect with Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/nishantpadha" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Nishant_Padha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:nishantpadha4sep@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-nishantpadha4sep-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=nishantpadha&style=flat-square&color=00FF88)
+<div align="center">
+![Profile Views](https://komarev.com/ghpvc/?username=nishantpadha&style=flat-square&color=CBC3E3)
+</div>
