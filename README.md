@@ -1,13 +1,5 @@
-<h1 align="Left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">Heyy there, I'm Nishant.</h1>
+<h1 align="Left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> Heyy there, I'm Nishant.</h1>
 
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FF88&center=true&vCenter=true&width=800&lines=Cybersecurity+Enthusiast+%F0%9F%94%90;Creative+Technologist+%F0%9F%8E%A8;Front-End+Developer+%F0%9F%92%BB;Builder.+Breaker.+Fixer." alt="Typing SVG" />
-</h1>
-
-
-
----
 
 ### 🌟 About Me
 
@@ -21,6 +13,24 @@
 - ⚡ &nbsp;**Fun fact:** I went from editing brand videos to scanning networks. Same energy, different tools.
 
 ---
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FF88&center=true&vCenter=true&width=800&lines=Cybersecurity+Enthusiast+%F0%9F%94%90;Creative+Technologist+%F0%9F%8E%A8;Front-End+Developer+%F0%9F%92%BB;Builder.+Breaker.+Fixer." alt="Typing SVG" />
+</h1>
+ 
+
+### 🌌 Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nishant-sheoran/nishant-sheoran/raw/main/svg-files/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/nishant-sheoran/nishant-sheoran/raw/main/svg-files/github-snake.svg" />
+    <img alt="GitHub Snake Animation" src="https://github.com/nishant-sheoran/nishant-sheoran/raw/main/svg-files/github-snake-dark.svg" />
+  </picture>
+</div>
+
+---
+
 
 ### 🛠️&nbsp;&nbsp;Skills & Tools
 
@@ -88,17 +98,7 @@
 
 ---
 
-### 🌌 Activity
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nishant-sheoran/nishant-sheoran/raw/main/svg-files/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/nishant-sheoran/nishant-sheoran/raw/main/svg-files/github-snake.svg" />
-    <img alt="GitHub Snake Animation" src="https://github.com/nishant-sheoran/nishant-sheoran/raw/main/svg-files/github-snake-dark.svg" />
-  </picture>
-</div>
-
----
 
 ### 🌐 Connect with Me
 
