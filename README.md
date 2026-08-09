@@ -3,7 +3,7 @@
 ### 🌟 About Me
 
 - 🏢 &nbsp;**Building:** [NYX Digital](https://nyxdigital.in) — a studio for web, product, and creative work
-- 🛠️ &nbsp;**Shipping:** [Northern Bloom / NYX SYS]([https://github.com/nbomw/northernbloom](https://github.com/nishant4sep/nyxsys-showcase)) — a full salon management platform (desktop + booking site + backend) for a real client
+- 🛠️ &nbsp;**Shipping:** [Northern Bloom / NYX SYS]([https://github.com/nishant4sep/nyxsys-showcase])) — a full salon management platform (desktop + booking site + backend) for a real client
 - 🎓 &nbsp;**Studying:** B.Tech Computer Science @ UIET Kathua *(Expected 2027)*
 - 🎯 &nbsp;**Targeting:** Software / Product Engineering roles at large tech companies
 - 🧑‍🏫 &nbsp;**Teaching:** Photoshop, Illustrator, InDesign, Premiere Pro & design/security fundamentals @ Samyak Computer Classes
