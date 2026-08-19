@@ -6,7 +6,7 @@
 - 🛠️ &nbsp;**Shipping:** [Northern Bloom / NYX SYS](https://github.com/nishant4sep/nyxsys-showcase) — a full salon management platform (desktop + booking site + backend) for a real client
 - 🎓 &nbsp;**Studying:** B.Tech Computer Science @ UIET Kathua *(Expected 2027)*
 - 🎯 &nbsp;**Targeting:** Software / Product Engineering roles at large tech companies
-- 🧑‍🏫 &nbsp;**Teaching:** Photoshop, Illustrator, InDesign, Premiere Pro & design/security fundamentals @ Samyak Computer Classes
+
 - 🎨 &nbsp;**Creative background:** Graphic design, video editing, Shopify builds — 1.5+ years freelancing
 - 📍 &nbsp;**Based in:** Jammu, India 🇮🇳
 - 💬 &nbsp;**Ask me about:** Full-stack dev, product architecture, design systems, or building a studio from scratch
